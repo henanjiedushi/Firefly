@@ -283,9 +283,9 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：站点信息组件
 			type: "siteInfo",
 			// 是否启用该组件
-			enable: false,
+			enable: true,
 			// 是否在文章详情页显示
-			showOnPostPage: false,
+			showOnPostPage: true,
 			// 组件专属配置
 			specificConfig: {
 				siteInfo: {
